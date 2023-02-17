@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9c990bf58745611063acb8c6cebb35ba" extends="task" label="rep_test" max_length="40" name="x_958969_repositor_rep_test" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Kido" max_length="40" name="kido" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Kimura" max_length="1024" name="kimura" type="url"/>
+    </element>
+</database>

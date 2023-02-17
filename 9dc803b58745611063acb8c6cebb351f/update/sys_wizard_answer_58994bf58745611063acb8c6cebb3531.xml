@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New rep_test</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>rep_test</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">a67056e4f90211108c8bd16244dfe708</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 06:18:12</sys_created_on>
+        <sys_id>58994bf58745611063acb8c6cebb3531</sys_id>
+        <sys_name>rep_test</sys_name>
+        <sys_package display_value="repository-test" source="x_958969_repositor">9dc803b58745611063acb8c6cebb351f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="repository-test">9dc803b58745611063acb8c6cebb351f</sys_scope>
+        <sys_update_name>sys_wizard_answer_58994bf58745611063acb8c6cebb3531</sys_update_name>
+        <table/>
+        <target_url>x_958969_repositor_rep_test.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

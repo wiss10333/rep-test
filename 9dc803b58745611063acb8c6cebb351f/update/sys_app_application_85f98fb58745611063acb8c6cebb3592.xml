@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>repository-test-description</description>
+        <device_type>browser</device_type>
+        <hint>repository-test-description</hint>
+        <name/>
+        <order/>
+        <roles>itil</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 06:19:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>85f98fb58745611063acb8c6cebb3592</sys_id>
+        <sys_name>repository-test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="repository-test" source="x_958969_repositor">9dc803b58745611063acb8c6cebb351f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="repository-test">9dc803b58745611063acb8c6cebb351f</sys_scope>
+        <sys_update_name>sys_app_application_85f98fb58745611063acb8c6cebb3592</sys_update_name>
+        <title>repository-test</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
